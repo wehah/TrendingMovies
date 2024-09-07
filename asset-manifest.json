@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/TrendingMovies/static/css/main.b76e92db.css",
-    "main.js": "/TrendingMovies/static/js/main.57e71415.js",
+    "main.js": "/TrendingMovies/static/js/main.04119aa2.js",
     "static/media/Mohamed_Ali_logoVersion2.svg": "/TrendingMovies/static/media/Mohamed_Ali_logoVersion2.6dac1d5afdd5fa9d8324f421d59af265.svg",
     "index.html": "/TrendingMovies/index.html",
     "main.b76e92db.css.map": "/TrendingMovies/static/css/main.b76e92db.css.map",
-    "main.57e71415.js.map": "/TrendingMovies/static/js/main.57e71415.js.map"
+    "main.04119aa2.js.map": "/TrendingMovies/static/js/main.04119aa2.js.map"
   },
   "entrypoints": [
     "static/css/main.b76e92db.css",
-    "static/js/main.57e71415.js"
+    "static/js/main.04119aa2.js"
   ]
 }
